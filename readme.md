@@ -1,5 +1,7 @@
 # detect-newline [![Build Status](https://travis-ci.org/sindresorhus/detect-newline.svg?branch=master)](https://travis-ci.org/sindresorhus/detect-newline)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/detect-newline.svg)](https://greenkeeper.io/)
+
 > Detect the dominant newline character of a string
 
 
